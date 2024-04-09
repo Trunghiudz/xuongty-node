@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Syltherine",
+      "img": "https://picsum.photos/id/10/300/300",
+      "discount": 50,
+      "price": 4500000,
+      "quantity": "1",
+      "description": "Stylish cafe chair",
+      "id": 1
+    },
+    {
+      "name": "Syltherine",
+      "img": "https://picsum.photos/id/11/300/300",
+      "discount": 50,
+      "price": 4500000,
+      "quantity": "1",
+      "description": "Stylish cafe chair",
+      "id": 2
+    },
+    {
+      "name": "Syltherine",
+      "img": "https://picsum.photos/id/12/300/300",
+      "discount": 50,
+      "price": 4500000,
+      "quantity": "1",
+      "description": "Stylish cafe chair",
+      "id": 3
+    },
+    {
+      "name": "Syltherine",
+      "img": "https://picsum.photos/id/13/300/300",
+      "discount": 50,
+      "price": 4500000,
+      "quantity": "1",
+      "description": "Stylish cafe chair",
+      "id": 4
+    }
+  ],
+  "menusadmin": [
+    {
+      "id": 1,
+      "name": "Dashboard",
+      "path": "/admin"
+    },
+    {
+      "id": 2,
+      "name": "Sản Phẩm",
+      "path": "/admin/products"
+    }
+  ]
+}
